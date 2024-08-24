@@ -12,11 +12,18 @@ This list is a collection of tools, projects, images, and resources conforming t
 
 Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
-
-- [Awesome scientific-visualization \*](#awesome-scientific-visualization-)
+- [3D Viewer](#3d-viewer)
+- [Books](#books)
+- [Jupyter](#jupyter)
+- [Medical imaging](#medical-imaging)
+- [Official](#official)
+- [Python](#python)
+- [Related Topics](#related-topics)
+- [Web](#web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
