@@ -17,13 +17,5 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [3D Viewer](#3d-viewer)
-- [Books](#books)
-- [Jupyter](#jupyter)
-- [Medical imaging](#medical-imaging)
-- [Official](#official)
-- [Python](#python)
-- [Related Topics](#related-topics)
-- [Web](#web)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
