@@ -14,8 +14,9 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Awesome scientific-visualization *](#awesome-scientific-visualization-)
+**Table of Contents** _generated with [DocToc](https://github.com/thlorenz/doctoc)_
+
+- [Awesome scientific-visualization \*](#awesome-scientific-visualization-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
