@@ -21,6 +21,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Geoscience
+
+- [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
+
 ## VTK
 
 - [PyVista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
