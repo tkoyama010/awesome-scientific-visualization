@@ -22,6 +22,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Astronomy
+
+- [NumPy Case Study: First Image of a Black Hole](https://numpy.org/case-studies/blackhole-image/) - Imaging the M87 Black Hole is like trying to see something that is by definition impossible to see.
+
 ## Geoscience
 
 - [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
