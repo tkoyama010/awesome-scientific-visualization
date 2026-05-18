@@ -4,11 +4,11 @@ ci:
   autoupdate_schedule: weekly
 repos:
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.33.3
+    rev: 0.37.2
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/codespell-project/codespell
-    rev: v2.4.1
+    rev: v2.4.2
     hooks:
       - id: codespell
         args: ["-L", ""]
@@ -35,7 +35,7 @@ repos:
       - id: requirements-txt-fixer
       - id: trailing-whitespace
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.2.0
+    rev: v2.4.1
     hooks:
       - id: doctoc
         exclude: ^(.github/|CONTRIBUTORS.md)
