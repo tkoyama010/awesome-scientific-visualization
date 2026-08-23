@@ -30,6 +30,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Geoscience
 
 - [GeoVista](https://github.com/bjlittle/geovista) - Cartographic rendering and mesh analytics powered by PyVista.
+- [PureJsImage](https://github.com/a-r-d/PureJsImage) – Zero-dependency TypeScript image and scientific raster library with browser demos for GeoTIFF, COG, OME-Zarr, and whole-slide data
 
 ## VTK
 
