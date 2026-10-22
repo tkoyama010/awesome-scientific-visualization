@@ -18,6 +18,7 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Astronomy](#astronomy)
+- [Biology](#biology)
 - [Geoscience](#geoscience)
 - [VTK](#vtk)
 
@@ -26,6 +27,10 @@ Contributions _very welcome_ but first see [Contributing](CONTRIBUTING.md).
 ## Astronomy
 
 - [NumPy Case Study: First Image of a Black Hole](https://numpy.org/case-studies/blackhole-image/) - Imaging the M87 Black Hole is like trying to see something that is by definition impossible to see.
+
+## Biology
+
+- [Molecular Animation](https://github.com/AmadeusBio-ai/Molecular_Animation) – Scripted molecular animation in Blender from PDB and AlphaFold structures, with an evidence level for every beat
 
 ## Geoscience
 
